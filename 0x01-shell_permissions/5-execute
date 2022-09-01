@@ -1,3 +1,2 @@
 #!/bin/bash
-cd hello
-cd hello
+chmod u+x hello
