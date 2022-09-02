@@ -1,0 +1,4 @@
+#!/bin/bash
+chown -h vincent:staff_hello
+chmod u+x 101-symbolic_link_permissions
+chmod u+x
